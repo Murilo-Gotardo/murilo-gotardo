@@ -8,7 +8,7 @@
 </div>
 
 
-## ![furry](https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif) About Me
+## About Me ![furry](https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif) 
 I'm a full stack developer... Or maybe, a back-end developer; I do really love back-end 
 
 <div align="center">
@@ -18,7 +18,7 @@ I'm a full stack developer... Or maybe, a back-end developer; I do really love b
 </div>
 
 
-## Skills
+## Skills ![furry-dog](https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif) 
 
 <div align="center">
 
@@ -31,7 +31,7 @@ I'm a full stack developer... Or maybe, a back-end developer; I do really love b
 
 </div>          
 
-## Learning
+## Learning ![furry-dance-furry](https://user-images.githubusercontent.com/98788821/209615112-def0ac3e-2067-4dfb-bb32-7fb4bdf52bdb.gif) 
     
 <div align="center">
     
