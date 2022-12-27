@@ -1,5 +1,7 @@
 
-# Hi, I'm Murilo! 👋
+# Hi, I'm Murilo!
+
+![protogen-bongo](https://user-images.githubusercontent.com/98788821/209611209-4e4d2200-64ae-43ab-9024-aabe2b2f6dfc.gif)
 
 
 ## 🚀 About Me
