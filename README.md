@@ -8,9 +8,8 @@
 </div>
 
 
-## 🚀 About Me
+## ![furry](https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif) About Me
 I'm a full stack developer... Or maybe, a back-end developer; I do really love back-end 
-
 
 <div align="center">
     <a href="https://github.com/Murilo-Gotardo">
@@ -19,22 +18,44 @@ I'm a full stack developer... Or maybe, a back-end developer; I do really love b
 </div>
 
 
-## 🛠 Skills
+## Skills
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="80" height="80"/> 
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="80" height="80"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="80" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="80" height="80"/>
+          
 
 </div>          
-     
+
+## Learning
+    
+<div align="center">
+    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80"/>
+          
+          
   
-## 🔗 Links
+</div>
+
+## Links
 
 <div align="center">
     
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-g-pommerening/)
 
-</div>    
+</div>   
+    
+---
+    
+<div align="center">
+    
+![furry-protogen](https://user-images.githubusercontent.com/98788821/209613380-c02479b3-5bd5-44ed-8e28-7e0339abe5c6.gif)
+
+</div>
