@@ -13,8 +13,8 @@ I'm a full stack developer... Or maybe, a back-end developer; I do really love b
 
 <div align="center">
     <a href="https://github.com/Murilo-Gotardo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Gotardo&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-Gotardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Gotardo&layout=compact&langs_count=7&theme=codeSTACKr"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-Gotardo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 </div>
 
 
