@@ -7,6 +7,13 @@
     
 </div>
 
+## Links
+
+<div align="center">
+    
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-g-pommerening/)
+
+</div> 
 
 ## About Me ![furry](https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif) 
 I'm a full stack developer... Or maybe, a back-end developer; I do really love back-end 
@@ -53,15 +60,7 @@ I'm a full stack developer... Or maybe, a back-end developer; I do really love b
     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="80" height="80"/>          
     
-</div>
-
-## Links
-
-<div align="center">
-    
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-g-pommerening/)
-
-</div>   
+</div>  
     
 ---
     
