@@ -20,29 +20,39 @@ I'm a full stack developer... Or maybe, a back-end developer; I do really love b
 
 ## Skills ![furry-dog](https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif) 
 
-<div align="center">
 
- 
+<div align="center">
+    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="80" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="80" height="80" />
+
+</div>
+    
+<div align="center">
+    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="80" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="80" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="80" height="80"/>
           
  
-</div>          
+</div>  
+    
+<div align="center">
+    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="80" height="80"/>      
+    
+</div>
 
 ## Learning ![furry-dance-furry](https://user-images.githubusercontent.com/98788821/209615112-def0ac3e-2067-4dfb-bb32-7fb4bdf52bdb.gif) 
     
 <div align="center">
     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="80" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="80" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="80" height="80" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="80" height="80" />
-              
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="80" height="80"/>          
+    
 </div>
 
 ## Links
