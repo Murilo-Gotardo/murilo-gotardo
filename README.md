@@ -10,7 +10,8 @@
 ## Links
 
 <div align="center">
-    
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://murilo-gotardo.github.io/portifolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-g-pommerening/)
 
 </div> 
