@@ -58,7 +58,18 @@
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="80" height="80"/> 
     
 ---
+
+## See too
+
+<div align="center">
     
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Gotardo&repo=SingleEncrypter&cache_seconds=86400&theme=holi"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Gotardo&repo=apiSocialWeb&cache_seconds=86400&theme=holi"/>
+
+</div>
+
+---
+
 <div align="center">
     
 <img src="https://user-images.githubusercontent.com/98788821/209613380-c02479b3-5bd5-44ed-8e28-7e0339abe5c6.gif" />
