@@ -26,6 +26,10 @@
 
 ---
 
+### Take a look around
+
+---
+
 >### Skills <img src="https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif" width="60" height="60"/> 
 >>---
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80"/>
@@ -61,7 +65,9 @@
     
 ---
 
-## See too
+### See too
+
+---
 
 <div align="center">
     
