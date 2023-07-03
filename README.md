@@ -45,8 +45,10 @@
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80" height="80"/>
+>
 >><img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="80" height="80"/>
+>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/>
 >### Learning <img src="https://user-images.githubusercontent.com/98788821/209615112-def0ac3e-2067-4dfb-bb32-7fb4bdf52bdb.gif" width="60" height="60"/>
