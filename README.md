@@ -63,8 +63,8 @@
 
 <div align="center">
     
-<img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Gotardo&repo=SingleEncrypter&cache_seconds=86400&theme=holi"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Gotardo&repo=apiSocialWeb&cache_seconds=86400&theme=holi"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Gotardo&repo=SingleEncrypter&cache_seconds=86400&theme=holi"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Gotardo&repo=apiSocialWeb&cache_seconds=86400&theme=holi"/>
 
 </div>
 
