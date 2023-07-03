@@ -1,4 +1,6 @@
-# Hi, I'm Murilo! <img src="https://user-images.githubusercontent.com/98788821/209611209-4e4d2200-64ae-43ab-9024-aabe2b2f6dfc.gif" width="100" height="80"/>
+### Hi, I'm Murilo! <img src="https://user-images.githubusercontent.com/98788821/209611209-4e4d2200-64ae-43ab-9024-aabe2b2f6dfc.gif" width="100" height="80"/>
+
+---
 
 >### Links
 >>[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://murilo-gotardo.github.io/portifolio/)
