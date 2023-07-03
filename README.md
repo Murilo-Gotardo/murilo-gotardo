@@ -75,3 +75,12 @@
 <img src="https://user-images.githubusercontent.com/98788821/209613380-c02479b3-5bd5-44ed-8e28-7e0339abe5c6.gif" />
 
 </div>
+
+---
+
+<div align="center">
+    
+    Hey, you made it to the bottom!
+    Take a cookie 🍪
+
+</div>
