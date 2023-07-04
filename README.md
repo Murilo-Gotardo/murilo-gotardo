@@ -44,7 +44,7 @@
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="80" height="80" />
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="80" height="80"/>
->### Tools 
+>### Tools <img src="https://wealthie.works/wp-content/uploads/WLTH_Fox_Loop_v001.gif" width="60" height="60"/>
 >>---
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80"/>
