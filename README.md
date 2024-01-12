@@ -40,6 +40,7 @@
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80" height="80"/>
+>><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="80" height="80"/>
 >
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="80" height="80" />
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/>
@@ -52,13 +53,13 @@
 >
 >><img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="80" height="80"/>
+>><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="80" height="80"/>
 >
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/>
 >### Learning <img src="https://user-images.githubusercontent.com/98788821/209615112-def0ac3e-2067-4dfb-bb32-7fb4bdf52bdb.gif" width="60" height="60"/>
 >>---
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/>
     
 ---
