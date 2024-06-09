@@ -60,6 +60,7 @@
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/>
 >### Learning <img src="https://user-images.githubusercontent.com/98788821/209615112-def0ac3e-2067-4dfb-bb32-7fb4bdf52bdb.gif" width="60" height="60"/>
 >>---
+>><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="80" height="80"/>
 >><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/>
     
