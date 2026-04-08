@@ -1,93 +1,118 @@
-### Hi, I'm Murilo! <img src="https://user-images.githubusercontent.com/98788821/209611209-4e4d2200-64ae-43ab-9024-aabe2b2f6dfc.gif" width="100" height="80"/>
+<h1 align="center">
+  Hey, I'm Murilo
+</h1>
+
+<p align="center">
+  <em>Full stack developer with a strong passion for back-end</em>
+</p>
+
+<p align="center">
+  <a href="https://murilo-gotardo.github.io/portifolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/murilo-g-pommerening/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
->### Links
->>[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://murilo-gotardo.github.io/portifolio/)
->
->>[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-g-pommerening/)
+### 🧑‍💻 About Me
+
+- 🎓 Computer Science student at **IFSC** (7th semester)
+- 🔒 Incoming Cybersecurity Master's student at **IPVC**, Portugal
+- 🖥️ Daily driving **CachyOS Linux** with niri Wayland compositor
+- ☕ Back-end enthusiast — but I get around the full stack
 
 ---
 
-### About Me <img src="https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif" width="80" height="80"/>
+### 🛠️ Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Mobile**
+
+![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Data Science & AI**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat-square&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-
-    I'm a full stack developer... Or maybe, a back-end developer; I do really love back-end.
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Murilo-Gotardo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Murilo-Gotardo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Gotardo&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Gotardo&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+  </picture>
 </div>
 
-<a href="https://github.com/Murilo-Gotardo">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Murilo-Gotardo&layout=compact&langs_count=7&theme=holi"/>
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Murilo-Gotardo&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-
----
-
-### Take a look around
-
->### Skills <img src="https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif" width="60" height="60"/> 
->>---
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="80" height="80"/>
->
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="80" height="80" />
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="80" height="80"/>
->
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="80" height="80" />
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="80" height="80"/>
->### Tools <img src="https://wealthie.works/wp-content/uploads/WLTH_Fox_Loop_v001.gif" width="60" height="60"/>
->>---
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="80" height="80"/>
->
->><img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="80" height="80"/>
->
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/>
->### Learning <img src="https://user-images.githubusercontent.com/98788821/209615112-def0ac3e-2067-4dfb-bb32-7fb4bdf52bdb.gif" width="60" height="60"/>
->>---
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="80" height="80"/>
->><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/>
-    
----
-
-### See too
-
 <div align="center">
-
-<a href="https://github.com/Murilo-Gotardo/SingleEncrypter"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Gotardo&repo=SingleEncrypter&cache_seconds=86400&theme=holi"/></a>
-<a href="https://github.com/Murilo-Gotardo/apiSocialWeb"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Gotardo&repo=apiSocialWeb&cache_seconds=86400&theme=holi"/></a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Murilo-Gotardo&theme=github-dark-blue&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murilo-Gotardo&hide_border=true" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-    
-<img src="https://user-images.githubusercontent.com/98788821/209613380-c02479b3-5bd5-44ed-8e28-7e0339abe5c6.gif" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Murilo-Gotardo&theme=github_dark"/>
+    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Murilo-Gotardo" alt="Repos per Language"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Murilo-Gotardo&theme=github_dark"/>
+    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Murilo-Gotardo" alt="Most Commit Language"/>
+  </picture>
 </div>
 
 ---
 
-<div align="center">
-    
-    Hey, you made it to the bottom!
-    Take a cookie 🍪
-
-</div>
+<p align="center">
+  <em>Hey, you made it to the bottom! Take a cookie 🍪</em>
+</p>
