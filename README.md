@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://murilo-gotardo.github.io/portifolio/">
+  <a href="https://portifolio.murilo-gp.dev/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/murilo-g-pommerening/">
