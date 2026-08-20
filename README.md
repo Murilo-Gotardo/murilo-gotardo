@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science student at **IFSC** (7th semester)
+- 🎓 Computer Science student at **IFSC** (8th semester)
 - 🔒 Incoming Cybersecurity Master's student at **IPVC**, Portugal
 - 🖥️ Daily driving **CachyOS Linux** with niri Wayland compositor
 - ☕ Back-end enthusiast — but I get around the full stack
